@@ -1,5 +1,5 @@
 {
-  "name": "orchestatorService",
+# "name": "orchestatorService",
   "version": "1.0.0",
   "description": "",
   "main": "bootstrap.js",
@@ -14,3 +14,4 @@
     "kafka-node": "^5.0.0"
   }
 }
+ 
